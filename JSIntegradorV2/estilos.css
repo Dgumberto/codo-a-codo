@@ -1,0 +1,29 @@
+#alertError{
+    position:fixed !important;
+    bottom: 0px;
+    z-index: 999 !important;
+    
+}
+
+.tarjeta{
+    margin-left: 1% !important;
+    margin-top: 1% !important;
+}
+
+.padding-superior{
+    margin-top: 1%!important;
+}
+.bg-primary-2{
+    background-color: rgb(10, 29, 90) !important;
+    align-items: center;
+    }
+    @media ( max-width: 400px) {
+        article{
+            font-size: 9px;
+    
+        }
+        h5{
+            font-size:15px !important;
+            font-style:inherit !important;
+        }
+    }
